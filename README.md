@@ -1,15 +1,3 @@
-
-> medium-to-markdown@0.0.3 convert
-> node index.js https://medium.com/@anupsarkar-dev/high-performance-loop-in-c-e6b54c1c8527
-
-[![Anup Sarkar](https://miro.medium.com/fit/c/96/96/1*rym1XwcFdFxUo8406vh93A.png)
-
-](https://medium.com/@anupsarkar-dev?source=post_page-----e6b54c1c8527--------------------------------)[Anup Sarkar](https://medium.com/@anupsarkar-dev?source=post_page-----e6b54c1c8527--------------------------------)Follow
-
-Feb 3
-
-┬╖5 min read
-
 High Performance Loop in C#
 ===========================
 
